@@ -1,0 +1,60 @@
+body{
+    background-color: silver;
+    color:white;
+    padding: 20px;'
+    font-family: Arial, sans-serif;
+}
+h1{
+    background-color: white;
+    background-color:hsla(0,100%,100%,0.5);
+    padding: inherit;
+}
+p{
+    padding: 5px;
+    margin: 0px;
+}
+p.fourteen{
+    background-color: rgba(0,136,221);
+}
+p.thirteen{
+    background-color: rgba(0,146,226)
+}
+p.twelve{
+    background-color: rgba(0,160,230);
+}
+p.eleven{
+    background-color: rgba(48,170,233);
+}
+p.ten{
+    background-color: rgba(84,182,237);
+}
+p.nine{
+    background-color: rgba(114,193,240);
+}
+p.eight{
+    background-color: rgba(140,202,242);
+}
+p.seven{
+    background-color: rgba(0,187,136);
+}
+p.six{
+    background-color: rgba(245,176,204);
+}
+p.five{
+    background-color: rgba(246,159,192);
+}
+p.four{
+    background-color: rgba(245,140,178);
+}
+p.three{
+    background-color: rgba(244,123,166);
+}
+p.two{
+    background-color: rgba(243,100,152);
+}
+p.one{
+    background-color: rgba(244,90,139);
+}
+p.zero{
+    background-color: rgba(238,62,128);
+}
